@@ -1,2 +1,2 @@
 # homework
-this is the homework of class
+数据集、模型、录屏都已经拷入硬盘中
